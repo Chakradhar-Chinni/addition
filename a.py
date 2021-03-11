@@ -1,7 +1,7 @@
 num1 = 15
 num2 = 88
  
-# Add two numbers
+# Add two numbers of the datatype float
 sum = float(num1) + float(num2)
  
 # Display the sum
